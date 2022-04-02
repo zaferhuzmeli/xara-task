@@ -6,22 +6,22 @@
     {
       name: "facebook",
       url: "https://www.facebook.com/",
-      img: "../assets/img/social-icons/icon-facebook.webp",
+      img: "../assets/img/social-icons/facebook.webp",
     },
     {
       name: "twitter",
       url: "https://twitter.com/",
-      img: "../assets/img/social-icons/icon-twitter.webp",
+      img: "../assets/img/social-icons/twitter.webp",
     },
     {
       name: "instagram",
       url: "https://www.instagram.com/",
-      img: "../assets/img/social-icons/icon-instagram.webp",
+      img: "../assets/img/social-icons/instagram.webp",
     },
     {
       name: "linkedin",
       url: "https://www.linkedin.com/",
-      img: "../assets/img/social-icons/icon-linkedin.webp",
+      img: "../assets/img/social-icons/linkedin.webp",
     },
   ];
 
